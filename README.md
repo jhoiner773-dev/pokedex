@@ -85,3 +85,10 @@ Comprender los tiempos de ejecución y propagación de GitHub Actions en la infr
 - Resolución de Errores de Servidor:
 
 Diagnóstico de errores (como HTTP 500) mediante herramientas de desarrollo y análisis del impacto de encabezados HTTP en el renderizado del cliente.
+
+---
+
+## 📑 Documentación Técnica
+
+Para revisar el proceso de solución de errores, configuración de Azure y análisis de seguridad, haz clic aquí:
+### 🔗 [Ver Bitácora de Despliegue](./DESPLIEGUE.md)
